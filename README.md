@@ -1,4 +1,4 @@
-# DeepChannelLearning4RIS
+# deepChannelLearning4RIS
 Channel Estimation for Reconfigurable Intelligent Surface via Deep Learning
 MATLAB Codes for the paper: 
 
